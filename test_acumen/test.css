@@ -1,0 +1,116 @@
+        h1 {
+            color: #66BFBF;
+            text-align: center;
+            padding-top: 200px;
+            size: 20px;
+        }
+        
+        h2 {
+            color: #66BFBF;
+            text-align: center;
+        }
+        
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            width: 5%;
+            border-width: 5px;
+            color: grey;
+        }
+        
+        .mont {
+            width: 1300px;
+            height: 700px;
+            background-color: #EAF6F6;
+            background-image: url(gojo.jpg);
+        }
+        
+        p {
+            width: 300px;
+            color: #40514E;
+        }
+        
+        #hello {
+            margin-left: 550px;
+        }
+        /*img {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    }*/
+        
+        .Design {
+            /*display: flex;*/
+            float: left;
+        }
+        
+        .Wings {
+            display: flex;
+        }
+        
+        img {
+            width: 100px;
+            height: 100px;
+            border-radius: 100%;
+        }
+        
+        #img2 {
+            width: 400px;
+            margin-left: 500px;
+            border-radius: 0%;
+        }
+        
+        #img3 {
+            margin-left: 200px;
+        }
+        
+        #imgs {
+            margin-left: 620px;
+        }
+        
+        #img1 {
+            margin-left: 400px;
+            /*float: left;*/
+            display: flex;
+        }
+        
+        footer {
+            background-color: #66BFBF;
+            height: 100px;
+        }
+        
+        h4 {
+            text-align: center;
+            color: #EAF6F6;
+        }
+        
+        h3 {
+            /*text-align: center;*/
+            color: #11999E;
+        }
+        
+        .thing {
+            width: 80px;
+            height: 50px;
+        }
+        
+        .thing::nth-child(1) {
+            margin-left: 500px;
+            color: #11999E;
+        }
+        
+        .thing::nth-child(2) {
+            margin-left: 600px;
+            color: #11999E;
+        }
+        
+        .thing::nth-child(3) {
+            margin-left: 700px;
+            color: #11999E;
+        }
+        
+        .info {
+            display: flex;
+            padding-top: 5px;
+            margin-left: 550px;
+        }
