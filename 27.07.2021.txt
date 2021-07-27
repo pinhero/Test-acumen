@@ -1,3 +1,11 @@
 Chapter 5: Intermediate CSS (suite)
 
-- Font styling. Thers is five major families (cursive, fantasy, inherit, monospace, serif, sans-serif)
+- Font styling. Thers is five major families (cursive, fantasy, inherit, monospace, serif, sans-serif).
+
+- CSS sizing (px, %, em, rem, ...).
+
+- CSS font porperty (color, line-height, line-weight, ...).
+
+- CSS float and clear.
+
+- Create a CSS button (https://cssbuttoncreator.com/).
