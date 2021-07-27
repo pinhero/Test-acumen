@@ -1,0 +1,11 @@
+Chapter 5: Intermediate CSS
+
+- Create an icon with favicon and incorporate it to our web site.
+
+- What is a div? Why ?
+
+- The Box model (Height, Width, border, margin, padding).
+
+- CSS display porperty has four different values (Block, inline, inline-block, none).
+
+- CSS positioning. Position (Relative, Absolute, Static, Fixed).
