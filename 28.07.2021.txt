@@ -1,0 +1,9 @@
+Chapter 6: Introduction to Bootstrap 4.
+
+- What is Bootstrap? How do you install it?
+
+- Wireframing [Wireframe are a low fidelity representation of your design] (awwwards.com, ui-patterns.com, dribble.com, sneakpeekit.com, balsamiq.com).
+
+- Bootstrap navigation bar
+
+- Bootstrap Grid Layout
