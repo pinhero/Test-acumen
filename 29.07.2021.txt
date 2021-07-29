@@ -1,0 +1,9 @@
+Chapitre 6: Bootstrap (suite).
+
+- Container/Container-fluid.
+
+- Bootstrap Button and font awesome (Outline button, fontsawesome.com).
+
+- Carousel(Slide only, With control).
+
+- Cards(card-hearder, card-body, card-footer, bootnipp.com).
