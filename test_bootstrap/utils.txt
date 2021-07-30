@@ -1,0 +1,18 @@
+1. Code couleurs
+	- Vert: #7dc22b
+	- Blanc: #ffffff
+	- Couleur par défaut de texte: #53575a
+	- Couleur de fond du footer: #161223
+2. Polices
+	- Titre: Poppins
+	- Autre chose: "Open Sans"
+
+3. Images
+- Utiliser le lien https://via.placeholder.com/largeurxhauteur.extension avec:
+	- largeur: largeur souhaitée pour l'image
+	- hauteur: hauteur souhaitée pour l'image
+	- extension: extension souhaitée pour l'image
+Exemple: https://via.placeholder.com/128x256.png pour avoir une image de largeur 128px, de hauteur 256px et d'extension png 
+
+- Télécharger au besoin des images libres de droits d'auteur et gratuites sur Pixabay (https://pixabay.com/fr)
+

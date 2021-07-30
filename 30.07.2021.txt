@@ -1,0 +1,7 @@
+Chapitre 6: Bootstrap (suite).
+
+- z-index.
+
+- Mobile first (mobile-friendly, Media query).
+
+-
